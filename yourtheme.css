@@ -1,0 +1,121 @@
+/* Yourtheme extension, https://github.com/datenstrom/yellow-example-theme */
+
+/* Colors and fonts */
+
+:root {
+    --bg: #fff;
+    --heading: #111;
+    --text: #666;
+    --link: #07d;
+    --link-active: #29f;
+}
+
+/* General */
+
+html, body, div, form, pre, span, tr, th, td, img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+body {
+    margin: 1em;
+    background-color: var(--bg);
+    color: var(--text);
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: var(--heading);
+    font-weight: 400;
+}
+a {
+    color: var(--link);
+    text-decoration: none;
+}
+a:hover {
+    color: var(--link);
+    text-decoration: underline;
+}
+
+/* Content */
+
+.content h1 {
+    margin: 1em 0;
+}
+.content h1 a {
+    color: var(--heading);
+}
+.content h1 a:hover {
+    color: var(--heading);
+    text-decoration: none;
+}
+.content img {
+    max-width: 100%;
+    height: auto;
+}
+.content form {
+    margin: 1em 0;
+}
+
+/* Header */
+
+.header {
+    margin: 2em 0;
+}
+.header .sitename {
+    display: block;
+    float: left;
+}
+.header .sitename h1 {
+    margin: 0;
+    font-size: 1em;
+    font-weight: 300;
+}
+.header .sitename h1 a {
+    color: var(--text);
+    border-bottom: solid 3px var(--bg);
+    text-decoration: none;
+    padding: 0.5em 0;
+}
+.header .sitename h1 a:hover {
+    color: var(--link);
+    border-bottom: solid 3px var(--link-active);
+}
+.header .sitename p {
+    margin-top: 0;
+    color: var(--text);
+}
+
+/* Navigation */
+
+.navigation {
+    display: block;
+    float: right;
+}
+.navigation a {
+    color: var(--text);
+    border-bottom: solid 3px var(--bg);
+    text-decoration: none;
+    padding: 0.5em 0;
+    margin: 0 0.5em;
+}
+.navigation a:hover {
+    color: var(--link);
+    border-bottom: solid 3px var(--link-active);
+}
+.navigation ul {
+    margin: 0 -0.5em;
+    padding: 0;
+    list-style: none;
+}
+.navigation li {
+    display: inline;
+}
+.navigation li a.active {
+    border-bottom: solid 3px var(--link-active);
+}
+.navigation-banner {
+    clear: both;
+}
