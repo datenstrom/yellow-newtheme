@@ -16,6 +16,10 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 The default theme is defined in file `system/extensions/yellow-system.ini`. A different theme can be defined in the [page settings](https://github.com/annaesvensson/yellow-core#settings-page) at the top of each page, for example `Theme: newtheme`. [Learn more about themes](https://datenstrom.se/yellow/help/how-to-customise-a-theme).
 
+## Acknowledgements
+
+This extension includes Fira Sans by Ralph du Carrois. Thank you for the beautiful font.
+
 ## Designer
 
 Your name. [Get help](https://datenstrom.se/yellow/help/).

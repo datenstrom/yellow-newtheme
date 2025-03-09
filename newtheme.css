@@ -13,8 +13,29 @@
     --link-active: #07d;
     --blockquote-accent: #ddd;
     --border: #bbb;
-    --font: -apple-system, Roboto, Helvetica, sans-serif;
+    --font: "Fira Sans", Helvetica, sans-serif;
     --monospace-font: Consolas, Menlo, Courier, monospace;
+}
+@font-face {
+    font-family: "Fira Sans";
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(newtheme-firasans-light.woff) format("woff");
+}
+@font-face {
+    font-family: "Fira Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(newtheme-firasans-regular.woff) format("woff");
+}
+@font-face {
+    font-family: "Fira Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(newtheme-firasans-bold.woff) format("woff");
 }
 
 /* General */
@@ -36,7 +57,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--heading);
-    font-weight: 600;
+    font-weight: 700;
 }
 a {
     color: var(--link);
