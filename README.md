@@ -8,7 +8,7 @@ Example theme for Datenstrom Yellow.
 
 [Download ZIP file](https://github.com/datenstrom/yellow-newtheme/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-*Important: Change the download link to your repository.*
+*Important: Change the download link to your own repository.*
 
 ## How to customise a theme
 
