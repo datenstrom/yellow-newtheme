@@ -4,7 +4,7 @@ Example theme for Datenstrom Yellow.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
-*Tip for developers and designers: You can use this example to make an extension for Datenstrom Yellow. Click on "Use this template" at the top of the page. This will create a new repository on GitHub. Edit the README file, go to "How to install an extension" and change the download link to the URL of your repository. Now everything is ready and you can edit the remaining files. Have fun coding.*
+*Tips for developers and designers: You can use this example theme to make an extension for Datenstrom Yellow. Click on "Use this template" at the top of the page. This will create a new repository on GitHub. Edit the README file in your repository, go to "How to install an extension" and change the download link to the URL of your repository. Now everything is ready. Have fun coding.*
 
 ## How to install an extension
 
