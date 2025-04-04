@@ -10,7 +10,7 @@ Example theme for Datenstrom Yellow.
 
 ## How to make a theme
 
-The quickest way is to click on `Use this template` at the top of the page. This will create a new repository on GitHub. Edit the README file in your repository. Go to "How to install an extension" and replace the download link with the download link of your repository. Go to "How to make a theme" and remove this section from your repository. Now you can experiment with your new theme. Happy coding.
+Click on `Use this template` at the top of the page. This will create a new repository on GitHub. Edit the README file in your repository. Go to "How to install an extension" and replace the download link with the download link of your repository. Go to "How to make a theme" and remove this section from your repository. Now you can experiment with your new theme. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## How to customise a theme
 
