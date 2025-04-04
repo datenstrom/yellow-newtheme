@@ -8,9 +8,9 @@ Example theme for Datenstrom Yellow.
 
 [Download ZIP file](https://github.com/datenstrom/yellow-newtheme/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-## How to make a theme
+## How to make an extension
 
-Click on `Use this template` at the top of the page. This will create a new repository on GitHub. Edit the README file in your repository. Go to "How to install an extension" and replace the download link with the download link of your repository. Go to "How to make a theme" and remove this section from your repository. Now you can experiment with your new theme. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+Click on `Use this template` at the top of the page. This will create a new repository on GitHub. Edit the README file in your repository. Go to "How to install an extension" and replace the download link with the download link of your repository. Now you can experiment with your new extension. [Learn more about making extensions](https://github.com/annaesvensson/yellow-publish).
 
 ## How to customise a theme
 
