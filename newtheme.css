@@ -5,7 +5,6 @@
 :root {
     --bg: #fff;
     --important-bg: #f0f8fe;
-    --note-bg: #fffbf0;
     --heading: #111;
     --text: #333;
     --link: #07d;
@@ -126,12 +125,6 @@ a:hover {
     margin: 1em 0;
     padding: 10px 1em;
     background-color: var(--important-bg);
-    border-radius: 3px;
-}
-.content .note {
-    margin: 1em 0;
-    padding: 10px 1em;
-    background-color: var(--note-bg);
     border-radius: 3px;
 }
 .content .left {
